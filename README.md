@@ -6,4 +6,4 @@ Eigen c++ template library for linear algebra
 
 Matrix.hpp - contains the templateb functions implementation of Matrix class
 GenericMatrixDriver.cpp - A driver for testing the implementation of the Matrix.hpp file which is
- * an implementationf of a generic (template) matrix
+ an implementation of a generic (template) matrix
